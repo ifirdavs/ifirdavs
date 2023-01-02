@@ -1,6 +1,6 @@
-## **👋 Hi there, I am Firdavsbek, Junior Python Developer.**
+## **Hi there 👋 I am Firdavsbek, Junior Python Developer.**
 
-- Check out my blog and my [resume](#). 
+- Check out my [blog](#) and my [resume](#). 
 - I’m currently a student at [New Uzbekistan University](https://newuu.uz/). 
 
 You can reach out to me via davisismailov@gmail.com
