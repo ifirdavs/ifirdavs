@@ -32,7 +32,10 @@ Join me on an adventure as we conquer the skies with an AI-powered autonomous dr
 I'm always excited to collaborate and connect with fellow developers and tech enthusiasts. Feel free to reach out to me on LinkedIn or Twitter to discuss cool ideas, exchange knowledge, or simply geek out about the latest tech trends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/firdavsbek-ismoilov)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/fismoilov20)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/firdavsonx)
+
+## Supports are Appreciated!
+<a href="https://www.buymeacoffee.com/firdavsbek" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Coffee&emoji=&slug=firdavsbek&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## Fun Fact
 
