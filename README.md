@@ -13,7 +13,7 @@ I'm a passionate developer with a knack for creating innovative solutions and ex
 ## Tech Stack
 
 - Languages: Python, C++
-- Frameworks: Django, Django RESt
+- Frameworks: Django, Django REST
 - Databases: PostgreSQL, MySQL, MongoDB
 - Tools: Git, Docker, AWS
 
