@@ -15,7 +15,7 @@ I'm a passionate developer with a knack for creating innovative solutions and ex
 - Languages: Python, C++
 - Frameworks: Django, Django REST
 - Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Git, Docker, AWS
+- Tools: Git, Docker, AWS, Azure
 
 ## Projects That Define Me
 
