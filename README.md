@@ -11,15 +11,16 @@ Welcome to my coding universe! 🚀
 I'm a passionate developer with a knack for creating innovative solutions and exploring the endless possibilities of code. I love diving into complex algorithms, crafting elegant designs, and building applications that make a meaningful impact.
 
 ### ⚙️ GitHub Analytics
-
+<!-- 
 <p align="center">
 <a href="https://github.com/ifirdavs">
-  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifirdavs&show_icons=true&theme=terafox&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifirdavs&layout=compact&langs_count=8&theme=terafox"/> -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifirdavs&show_icons=true&theme=terafox&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifirdavs&layout=compact&langs_count=8&theme=terafox"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ifirdavs&theme=terafox" alt="GitHub Streak"/>
 </a>
 </p>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ifirdavs&theme=terafox)](https://git.io/streak-stats) -->
+-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ifirdavs&theme=terafox)](https://git.io/streak-stats)
 
 
 ## 👀 Profile views
